@@ -1,12 +1,9 @@
 .. raw:: html
 
    <p align="center"><img src="src/pretix/static/pretixbase/img/eventyay-logo.svg" width="200" alt="Eventyay Tickets project logo" /></p>
+   <h1 align="center">eventyay-tickets</h1>
 
-eventyay-tickets
-================
-
-Fork status
------------
+**Fork status**
 
 This repository is a fork of `FOSSASIA Eventyay <https://github.com/fossasia/eventyay>`_. The guide below retains the project setup and legal details.
 
