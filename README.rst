@@ -24,6 +24,7 @@ Existing upstream guide
 -----------------------
 
 .. image:: https://codecov.io/gh/fossasia/eventyay-tickets/branch/master/graph/badge.svg
+   :alt: Code coverage status for fossasia/eventyay-tickets master branch
    :target: https://codecov.io/gh/pretix/pretix
 
 Project status & release cycle
