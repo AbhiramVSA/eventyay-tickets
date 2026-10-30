@@ -1,7 +1,6 @@
-.. image:: src/pretix/static/pretixbase/img/eventyay-logo.svg
-   :align: center
-   :width: 200 px
-   :alt: Eventyay Tickets project logo
+.. raw:: html
+
+   <p align="center"><img src="src/pretix/static/pretixbase/img/eventyay-logo.svg" width="200" alt="Eventyay Tickets project logo" /></p>
 
 eventyay-tickets
 ================
