@@ -1,3 +1,5 @@
+Fork of `fossasia/eventyay <https://github.com/fossasia/eventyay>`_.
+
 eventyay-tickets
 ======
 
