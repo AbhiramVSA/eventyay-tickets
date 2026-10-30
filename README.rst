@@ -1,7 +1,27 @@
-Fork of `fossasia/eventyay <https://github.com/fossasia/eventyay>`_.
-
 eventyay-tickets
-======
+================
+
+Fork status
+-----------
+
+This repository is a fork of `FOSSASIA Eventyay <https://github.com/fossasia/eventyay>`_. The guide below retains the project setup and legal details.
+
+Project overview
+----------------
+
+Eventyay Tickets supports ticket sales and event-related items. The ticketing code is based on a fork of Pretix.
+
+Contents
+--------
+
+* `Project status & release cycle`_
+* `Support`_
+* `Contributing`_
+* `Setting Up Eventyay-Tickets`_
+* `License`_
+
+Existing upstream guide
+-----------------------
 
 .. image:: https://codecov.io/gh/fossasia/eventyay-tickets/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/pretix/pretix
