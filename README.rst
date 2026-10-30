@@ -1,3 +1,8 @@
+.. image:: src/pretix/static/pretixbase/img/eventyay-logo.svg
+   :align: center
+   :width: 200 px
+   :alt: Eventyay Tickets project logo
+
 eventyay-tickets
 ================
 
